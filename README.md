@@ -2,7 +2,6 @@
 
 - 🔭 Trabalho com front-end
 - 🌱 Estudando HTML | CSS | JavaScript
-- 📫 contate-me no email: felipelandim43@gmail.com
 
   <a href="https://github.com/FelipeLandim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeLandim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
